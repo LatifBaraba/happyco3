@@ -42,6 +42,5 @@
             </div>
         </div>
     </div>
-</div>
-        <!-- main content area end -->
+</div><!-- main content area end -->
         
